@@ -1,2 +1,2 @@
 # Fretful
-Files ill prob put on my main page
+17 year old trying to learn rust essentially
