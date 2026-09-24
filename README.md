@@ -1,2 +1,2 @@
 # Fretful
-18 year old trying to learn rust essentially
+18 year old in IT
